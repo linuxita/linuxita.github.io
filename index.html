@@ -18,12 +18,12 @@ subtitle: il primo blog italiano su linux interamente opensource e basato sulla 
     </a>
 
     <p class="post-meta">
-      Posted on {{ post.date | date: "%B %-d, %Y" }}
+      Postato il {{ post.date | date: "%B %-d, %Y" }}
     </p>
   
     <div class="post-entry">
       {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
-	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Leggi&nbsp;di&nbsp;piú]</a>
     </div>
   
    </article>
@@ -34,7 +34,7 @@ subtitle: il primo blog italiano su linux interamente opensource e basato sulla 
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
   <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Nuovi Post</a>
   </li>
   {% endif %}
   {% if paginator.next_page %}
