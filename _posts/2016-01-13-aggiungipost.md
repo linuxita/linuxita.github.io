@@ -23,6 +23,7 @@ subtitle: qui inserisci un sottotitolo
 
 E poi inserisci il testo del post.
 
-6. Fai un pull request
-
+Infine fai un pull request, e se il tuo post è di buona qualità lo troverai in LinuxITA.
+Per l'attribuzione del post inserisci in fondo al
+post "Autore: Nome".
 Non esitare a scrivere nei commenti per maggiori informazioni e/o problemi.
