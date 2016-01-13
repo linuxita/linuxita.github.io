@@ -22,6 +22,7 @@ subtitle: qui inserisci un sottotitolo
 ~~~
 
 E poi inserisci il testo del post.
+
 4. Fai un pull request
 
 Non esitare a scrivere nei commenti per maggiori informazioni e/o problemi.
