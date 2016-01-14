@@ -7,7 +7,7 @@ Il noto editor web, dopo che è stato pubblicato anche per Linux oltre che a Win
 
 &Egrave; il primo programma creato direttamente da Microsoft(Skype è stata acquisita da Microsoft) ad essere supportato e sviluppato su Linux.
 
-Potete scaricare Visual Studio [qui](https://code.visualstudio.com/)
+Potete scaricare Visual Studio Code [qui](https://code.visualstudio.com/)
 
 Per la pagina GitHub cliccate [qui](https://github.com/Microsoft/vscode)
 
