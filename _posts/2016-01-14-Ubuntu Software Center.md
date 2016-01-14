@@ -1,8 +1,9 @@
 ---
-layout:post
+layout: post
 title: Ubuntu Software Center verrà abbandonato dalle prossime release di Ubuntu
 subtitle: il pesante software center di Ubuntu verrà definitivamente abbandonato
 ---
+
 USC (Ubuntu Software Center) verrà abbandonato a favore di Gnome Software, in Ubuntu 16.04 e derivate.
 Non si sa se Lubuntu invece terrà Lubuntu Software Center(versione "allegerita" di USC).
 
