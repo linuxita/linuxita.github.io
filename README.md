@@ -1,3 +1,3 @@
 # linuxita.github.io
-Linux about blog
-Work in progress
+About Linux blog
+open source italian blog about Linux based on community
