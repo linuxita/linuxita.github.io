@@ -16,7 +16,7 @@ sudo pacman -S git
 Poi clonate il repository github di cnchi(l'installer di antergos):
 
 ~~~
-git clone https://www.github.com/Antergos/cnchi depth=1
+git clone https://www.github.com/Antergos/cnchi
 ~~~
 
 Poi, entrate nella directory 'cnchi':
